@@ -1,18 +1,5 @@
-// Student Name: Lauren Smillie
-// Student Number: 21025828
-
-// Project: SYDE 121, Assignment #9
-// Filename: 21025828.cpp
-
-// I hereby declare that this code, submitted for credit for the course
-// SYDE 121, is a product of my own efforts. This coded solution has
-// not been plagiarized from other sources and has not been knowingly
-// plagiarized by others.
-
 // Purpose: This program takes an inputted image, stores its information,
 //          calculates statistics of the pixel values and creates an inverse image
-
-// Due Date: 12/02/2022
 
 # include <iostream>
 # include <cmath>
